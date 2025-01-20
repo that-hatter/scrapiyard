@@ -1,8 +1,8 @@
 ---!constant
-name: SET_PRIMOREDIAL
+name: SET_PRIMITE
 enum: Archetype
 value: 0x1b0
 description: |-
-  The ["Primoredial"](https://yugipedia.com/wiki/Primoredial) archetype.
-summary: Primoredial
+  The ["Primite"](https://yugipedia.com/wiki/Primite) archetype.
+summary: Primite
 status: { index: stable }

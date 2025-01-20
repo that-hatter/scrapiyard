@@ -1,0 +1,9 @@
+---!constant
+name: SET_ARGOSTARS
+enum: Archetype
+value: 0x1ba
+description: |-
+  The ["Argostars"](https://yugipedia.com/wiki/Argostars) archetype.
+summary: Argostars
+status:
+  index: stable
