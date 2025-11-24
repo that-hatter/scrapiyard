@@ -7,5 +7,5 @@ status:
   index: stable
 returns:
   - type: [ table ]
-    description: (To be added)
+    description: test a
 tags: [ under-construction ]
